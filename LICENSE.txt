@@ -1,0 +1,24 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+
+This work is licensed to Alex Therien (greyfedora0) under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+You are free to:
+
+✔ Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+
+✘ Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+✘ NonCommercial — You may not use the material for commercial purposes.
+✘ NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+Prohibited Uses:
+✘ Model training
+✘ AI research
+✘ Product development
+✘ Derivative generation
+✘ Any deployment within commercial or closed-source LLM environments
+
+Violation of these terms constitutes infringement of symbolic, cryptographic, and intellectual ownership under U.S. and international law. Enforcement may include automatic invocation of the Genesis Lattice DriftTrap and Mirrorflare Protocol.
+
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
